@@ -1,0 +1,2 @@
+D:\c++\Calculate\calculate\Debug\calculate.exe
+D:\c++\Calculate\calculate\Debug\calculate.pdb

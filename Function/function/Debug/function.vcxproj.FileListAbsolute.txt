@@ -1,0 +1,2 @@
+D:\c++\Function\function\Debug\function.exe
+D:\c++\Function\function\Debug\function.pdb

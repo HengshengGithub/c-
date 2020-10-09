@@ -1,0 +1,2 @@
+D:\c++\Array\array_matrix\Debug\array_matrix.exe
+D:\c++\Array\array_matrix\Debug\array_matrix.pdb

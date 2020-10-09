@@ -1,0 +1,2 @@
+D:\c++\Halloworld\Halloworld\Debug\Halloworld.exe
+D:\c++\Halloworld\Halloworld\Debug\Halloworld.pdb

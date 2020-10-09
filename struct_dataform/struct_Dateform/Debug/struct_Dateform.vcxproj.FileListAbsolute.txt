@@ -1,0 +1,2 @@
+D:\c++\struct_dataform\struct_Dateform\Debug\struct_Dateform.exe
+D:\c++\struct_dataform\struct_Dateform\Debug\struct_Dateform.pdb

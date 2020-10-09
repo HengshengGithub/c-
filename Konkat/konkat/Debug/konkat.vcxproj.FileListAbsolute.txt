@@ -1,0 +1,2 @@
+D:\c++\Konkat\konkat\Debug\konkat.exe
+D:\c++\Konkat\konkat\Debug\konkat.pdb
