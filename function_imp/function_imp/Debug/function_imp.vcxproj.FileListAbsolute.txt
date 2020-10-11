@@ -1,0 +1,2 @@
+D:\c++\c-\function_imp\function_imp\Debug\function_imp.exe
+D:\c++\c-\function_imp\function_imp\Debug\function_imp.pdb

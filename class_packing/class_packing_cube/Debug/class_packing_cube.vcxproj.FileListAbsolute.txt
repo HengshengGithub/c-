@@ -1,0 +1,2 @@
+D:\c++\c-\class_packing\class_packing_cube\Debug\class_packing_cube.exe
+D:\c++\c-\class_packing\class_packing_cube\Debug\class_packing_cube.pdb
